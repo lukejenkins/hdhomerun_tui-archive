@@ -2,6 +2,16 @@
 
 This repository is a mirror of <https://www.rabbitears.info/kb/hdhomerun_tui>
 
+> [!IMPORTANT]
+> **This repository is archived.** HDHomeRun TUI is written by **Trip Ericson** of
+> [RabbitEars.info](https://www.rabbitears.info/), who now publishes the official source at
+> **<https://github.com/TripEricson/hdhomerun_tui>**. Please use, star, and contribute there.
+>
+> This archive holds my unofficial mirror of the 0.1–0.8.6 release zips from
+> <https://www.rabbitears.info/dl/hdhomerun_tui/>, plus some local experiments (libhdhomerun
+> submodule, `-d` device selection, `-v` verbose logging). Active work continues in my fork:
+> <https://github.com/lukejenkins/hdhomerun_tui>.
+
 ## Additional Notes
 
 ### libhdhomerun Submodule
